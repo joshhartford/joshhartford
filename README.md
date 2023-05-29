@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @joshhartford
 - 👀 I’m interested in music, trading, and accounting. 
 - 🌱 I’m currently learning to code.
-- 💞️ I’m looking to collaborate on succressfully creating a beta-hedged portfolio 
 - 📫 Email: pevensiejh@gmail.com
 
 <!---
